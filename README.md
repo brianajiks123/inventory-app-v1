@@ -10,7 +10,7 @@ This web is still development stage.
 
 ## Screenshots
 
-![App Screenshot: Transaction](./Documentation/)
+![App Screenshot: Transaction](./Documentation/Dashboard.png)
 
 
 # Features
@@ -53,7 +53,7 @@ php artisan serve
 
 ## Tech Stack:
 
-- Frontend: Laravel UI
+- Frontend: Laravel UI, Sweet Alert
 - Backend: Laravel 11, MySQL, Git, Github
 
 
