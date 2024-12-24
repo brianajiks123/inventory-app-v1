@@ -50,7 +50,6 @@ php artisan serve
 ## Acknowledgements
 
  - [Laravel](https://laravel.com/docs/11.x)
- - [Livewire](https://livewire.laravel.com/)
  - [YouTube](https://www.youtube.com/@KodingDulu)
 
 
