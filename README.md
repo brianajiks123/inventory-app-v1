@@ -8,6 +8,16 @@ This web is still development stage.
 - PHP >= 8.3
 
 
+## Screenshots
+
+![App Screenshot: Transaction](./Documentation/)
+
+
+# Features
+
+- CRUD Item With Alert
+
+
 ## Run Locally
 
 Clone the project
@@ -50,6 +60,7 @@ php artisan serve
 ## Acknowledgements
 
  - [Laravel](https://laravel.com/docs/11.x)
+ - [Sweet Alert](https://realrashid.github.io/sweet-alert)
  - [YouTube](https://www.youtube.com/@KodingDulu)
 
 

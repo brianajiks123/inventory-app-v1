@@ -5,7 +5,7 @@
         <div class="row justify-content-center">
             <div class="col">
                 <div class="card">
-                    <div class="card-header bg-primary text-white">Add Item</div>
+                    <div class="card-header bg-primary text-white">Edit Item</div>
 
                     <div class="card-body">
                         <hr>
@@ -38,7 +38,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group my-3">
-                                    <button type="submit" class="btn btn-success">Save</button>
+                                    <button type="submit" class="btn btn-success">Update</button>
                                     <a href="{{ route('item.home') }}" class="btn btn-secondary">Back</a>
                                 </div>
                             </form>
